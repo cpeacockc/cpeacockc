@@ -1,6 +1,6 @@
 ## Hello, I'm Clayton 👋
 
-I'm a sixth year physics PhD student at New York University in the group of Dries Sels. I work on numerically solving problems in quantum chaos and condensed matter physics, in particular with regards to localization and mainly using tensor network methods. I am also currently looking for a postdoc position in related areas to continue my research.
+I'm a PhD candidate at New York University in the group of Dries Sels. I work on numerically solving problems in quantum chaos and condensed matter physics, in particular with systems which evade thermalization through localization by spatial disorder (Anderson, MBL, etc).
 
 Check out my repo for generating a Krylov basis and calculating the conserved quantities within it https://github.com/cpeacockc/Localization_in_Krylov_space
 
