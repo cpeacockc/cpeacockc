@@ -2,7 +2,7 @@
 
 I'm a PhD candidate at New York University in the group of Dries Sels. I work on numerically solving problems in quantum chaos and condensed matter physics, in particular with systems which evade thermalization through localization by spatial disorder (Anderson, MBL, etc).
 
-Check out my repo for generating a Krylov basis and calculating the conserved quantities within it https://github.com/cpeacockc/Localization_in_Krylov_space
+Check out my repo for generating a Krylov subspace expansion and Lanczos coefficients for the Anderson model and calculating the conserved quantities (or localized integrals of motion) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
 
 Check out my other repo (in progress) for doing basic quantum simulation with sparse and dense matrices https://github.com/cpeacockc/Quantum_simulator
 
