@@ -6,7 +6,7 @@ Check out my repo for generating a Krylov subspace expansion and Lanczos coeffic
 
 Check out my other repo (in progress) for doing basic quantum simulation with sparse and dense matrices https://github.com/cpeacockc/Quantum_simulator
 
-For matrix free quantum simulation methods I recommend and use https://paulistrings.org/dev/ and https://docs.itensor.org/ITensors/stable/
+For matrix free quantum simulation methods I recommend the following https://paulistrings.org/dev/, https://docs.itensor.org/ITensors/stable/, https://github.com/QuantumKitHub/MPSKit.jl
 
 My publications can be found on Google scholar: https://scholar.google.com/citations?user=ORSR8BoAAAAJ
 
