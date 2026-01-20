@@ -1,6 +1,6 @@
 ## Hello, I'm Clayton 👋
 
-I'm a physics PhD candidate at New York University in the group of Prof. Dries Sels. I work on theoretically and numerically solving problems in quantum chaos and condensed matter physics, in particular with systems which evade thermalization through localization by spatial disorder (Anderson, MBL, etc).
+I'm a quantum condensed matter physicist interested in a range of topics including quantum chaos and ergodicity-breaking, disordered systems, and quantum simulation techniques (Krylov expansions and other sparse methods, tensor networks, pauli string binary encoding)
 
 Check out my repo for generating a Krylov subspace expansion and Lanczos coefficients for the Anderson model and calculating the conserved quantities (or localized integrals of motion) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
 
@@ -8,7 +8,7 @@ Check out my other repo (in progress) for doing basic quantum simulation with sp
 
 For matrix free quantum simulation methods I recommend the following https://paulistrings.org/dev/, https://docs.itensor.org/ITensors/stable/, https://github.com/QuantumKitHub/MPSKit.jl
 
-My publications can be found on Google scholar: https://scholar.google.com/citations?user=ORSR8BoAAAAJ
+Publications: https://scholar.google.com/citations?user=ORSR8BoAAAAJ
 
 
 <!--
