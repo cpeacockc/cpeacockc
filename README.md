@@ -4,7 +4,7 @@ I'm a quantum condensed matter physicist interested in a range of topics includi
 
 Check out my repo for generating a Krylov subspace expansion and Lanczos coefficients for the Anderson model and calculating the conserved quantities (or localized integrals of motion) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
 
-Check out my other repo (in progress) for doing basic quantum simulation with sparse and dense matrices https://github.com/cpeacockc/Quantum_simulator
+Check out my other repo for quantum simulation with sparse and dense matrices https://github.com/cpeacockc/Quantum_simulator
 
 For matrix free quantum simulation methods I recommend the following https://paulistrings.org/dev/, https://docs.itensor.org/ITensors/stable/, https://github.com/QuantumKitHub/MPSKit.jl
 
