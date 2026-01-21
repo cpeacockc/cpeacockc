@@ -2,7 +2,7 @@
 
 I'm a quantum condensed matter physicist interested in a range of topics including quantum chaos and ergodicity-breaking, disordered systems, and quantum simulation techniques (Krylov expansions and other sparse methods, tensor networks, pauli string binary encoding)
 
-Repo for generating a Krylov subspace expansion and Lanczos coefficients for the Anderson model and calculating the conserved quantities (or localized integrals of motion) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
+Repo for generating a Krylov subspace expansion and Lanczos coefficients for the Anderson model and calculating the conserved quantities (or localized integrals of motion) as in  	arXiv:2510.26920 [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
 
 Repo for constructing continuous matrix product state Ansatz for finding ground states of one-dimensional bosons and Bose-Fermi mixtures as in PhysRevResearch.4.L022034 [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/ContinuousMatrixProductStates)
 
