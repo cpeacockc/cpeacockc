@@ -8,7 +8,7 @@ Repo for constructing continuous matrix product state Ansatz for finding ground 
 
 Repo for quantum simulation with sparse and dense matrices https://github.com/cpeacockc/Quantum_simulator
 
-For matrix free quantum simulation methods I recommend the following https://paulistrings.org/dev/, https://docs.itensor.org/ITensors/stable/, https://github.com/QuantumKitHub/MPSKit.jl
+Julia package for performing quantum simulation using Pauli string binary encoding (matrix free) https://paulistrings.org/
 
 Publications: https://scholar.google.com/citations?user=ORSR8BoAAAAJ
 
