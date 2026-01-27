@@ -1,6 +1,6 @@
 ## Hello, I'm Clayton 👋
 
-I'm a quantum condensed matter physicist interested in a range of topics including quantum chaos and ergodicity-breaking, disordered systems, and quantum simulation techniques (Krylov expansions and other sparse methods, tensor networks, pauli string binary encoding)
+I'm a theoretical quantum condensed matter physicist interested in topics including quantum chaos and ergodicity-breaking, disordered systems, dissipative/driven systems, and quantum simulation techniques (Krylov subspace expansion and other sparse methods, tensor networks, pauli string binary encoding, and quantum trajectory methods)
 
 Repo for generating a **Krylov subspace expansion** and Lanczos coefficients for the Anderson model and **calculating conserved quantities** (or localized integrals of motion) as in  	**arXiv:2510.26920** [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
 
