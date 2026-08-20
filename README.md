@@ -2,7 +2,7 @@
 
 I'm a theoretical quantum condensed matter physicist interested in quantum chaos, ergodicity-breaking, disordered systems, and dissipative/driven systems. My work involves developing and applying quantum simulation techniques including Krylov subspace methods, tensor networks, Pauli string binary encoding, and quantum trajectory methods.
 
-A collection of the **quantum simulation** methods I use for open and closed systems with sparse and dense matrices including ED and extensions for PauliStrings and ITensors: [QuantumSimulator.jl](https://github.com/cpeacockc/QuantumSimulator.jl)
+A collection of the above **quantum simulation** methods I use for research are packaged in [QuantumSimulator.jl](https://github.com/cpeacockc/QuantumSimulator.jl) which mainly contains functionality for sparse and dense matrices including exact-diagonalization but also has extensions for PauliStrings.jl and ITensors.jl.
 
 Code for generating **Krylov subspace expansions** and computing **localized integrals of motion** for the Anderson model (arXiv:2510.26920) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
 
