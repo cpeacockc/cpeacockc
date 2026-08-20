@@ -8,7 +8,7 @@ Code for generating **Krylov subspace expansions** and computing **localized int
 
 A **continuous matrix product state Ansatz** for finding ground states of one-dimensional bosons and **Bose-Fermi mixtures** (PhysRevResearch.4.L022034) [https://github.com/cpeacockc/ContinuousMatrixProductStates](https://github.com/cpeacockc/ContinousMatrixProductStates)
 
-Julia package for performing quantum simulation using **Pauli string binary encoding** https://paulistrings.org/
+For quantum simulation using **Pauli string binary encoding** I recommend: https://paulistrings.org/
 
 
 <!--
