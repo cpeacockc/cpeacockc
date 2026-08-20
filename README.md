@@ -2,7 +2,7 @@
 
 I'm a theoretical quantum many-body physicist with interests spanning atomic and molecular physics, quantum chaos, and condensed matter. My work often involves developing and applying quantum simulation techniques including Krylov subspace methods, tensor networks, Pauli string binary encoding, and quantum trajectory methods.
 
-A collection of the methods I've used for research are packaged in [QuantumSimulator.jl](https://github.com/cpeacockc/QuantumSimulator.jl) which contains functionality mainly for sparse and dense matrices including exact-diagonalization but also has extensions for PauliStrings.jl and ITensors.jl.
+A collection of the methods I've used for research are packaged in the repo [QuantumSimulator.jl](https://github.com/cpeacockc/QuantumSimulator.jl) which contains functionality mainly for sparse and dense matrices including exact-diagonalization but also has extensions for PauliStrings.jl and ITensors.jl.
 
 Code for generating **Krylov subspace expansions** and computing **localized integrals of motion** for the Anderson model (arXiv:2510.26920) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
 
