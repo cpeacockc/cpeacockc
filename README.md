@@ -1,6 +1,6 @@
 ## Hello, I'm Clayton 👋
 
-I'm a theoretical quantum many-body physicist with interests spanning atomic and molecular physics, quantum chaos, and condensed matter. My work often involves developing and applying quantum simulation techniques including Krylov subspace methods, tensor networks, Pauli string binary encoding, and quantum trajectory methods.
+I'm a theoretical quantum many-body physicist with interests spanning atomic and molecular physics, quantum chaos, and condensed matter. My work often involves developing and applying quantum simulation techniques including Krylov subspace methods, tensor networks, Pauli string binary encoding, and quantum trajectories.
 
 A collection of the methods I've used for research are packaged in the repo [QuantumSimulator.jl](https://github.com/cpeacockc/QuantumSimulator.jl) which contains functionality mainly for sparse and dense matrices including exact-diagonalization but also has extensions for PauliStrings.jl and ITensors.jl.
 
