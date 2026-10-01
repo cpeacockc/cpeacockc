@@ -2,7 +2,7 @@
 
 I'm a theoretical quantum many-body physicist with interests spanning atomic and molecular physics, quantum chaos, and condensed matter. My work often involves developing and applying quantum simulation techniques including Krylov subspace methods, tensor networks, Pauli string binary encoding, and quantum trajectories.
 
-Code for computing **local integrals of motion** in Krylov space for the Anderson model (Phys. Rev. B 113, 064204) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Anderson-in-Krylov-space)
+Code for computing **local integrals of motion** in Krylov space for the Anderson model (Phys. Rev. B 113, 064204) [https://github.com/cpeacockc/Localization_in_Krylov_space](https://github.com/cpeacockc/Localization_in_Krylov_space)
 
 A **continuous matrix product state Ansatz** for finding ground states of one-dimensional bosons and **Bose-Fermi mixtures** (PhysRevResearch.4.L022034) [https://github.com/cpeacockc/Continuous_matrix_product_states](https://github.com/cpeacockc/Continuous_matrix_product_states)
 
